@@ -7,7 +7,7 @@
 	- [[Monolithic Choreography]]
 	- [[Orchestration]] 
 	- [[Fanout]]
-- [[Ideopotency]]
+- [[Idempotency]]
 - Differences between [[Stateful]] and [[Stateless]] concepts
 - Differences between [[Tightly Coupled]] and [[Loosely Coupled]] components
 - [[Fault Tolerant]] design patterns 
@@ -21,7 +21,7 @@
 - Creating, extending, and maintaining APIs
 - Writing and running unit tests in development environments
 - Writing code to use messaging services
-- Writing code that interacts with AWS services by using APIs and AWS SDKs
+- Writing code that interacts with AWS services by using APIs and [[AWS SDK]]s
 - Handling data streaming by using AWS Services
 
 #### Task 2: Develop Code for AWS Lambda
@@ -31,10 +31,10 @@
 - [[Stateless Applications]]
 - [[Unit Testing]]
 - [[Event Driven Architecture]]
-- The access of private resources in VPCs from Lambda code
+- The access of private resources in VPCs from [[Lambda]] code
 
 **Skills in:**
-- Configuring Lambda functions by defining environment variables and parameters
+- Configuring [[Lambda]] functions by defining environment variables and parameters
 	- Memory
 	- Concurrency
 	- Timeout
