@@ -8,41 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f68e8990cb01e4da",
+            "id": "2411a4d65f96bda5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development and AWS Services.md",
+                "file": "JSON Policy Document Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Development and AWS Services"
+              "title": "JSON Policy Document Structure"
             }
           },
           {
-            "id": "2411a4d65f96bda5",
+            "id": "c788a756aaee0b4d",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "5ba5ae93aa80b755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Identity and Access Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Identity and Access Management"
             }
           }
         ],
@@ -194,16 +180,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2411a4d65f96bda5",
+  "active": "c788a756aaee0b4d",
   "lastOpenFiles": [
-    "AWS Identity and Access Management.md",
-    "Lambda.md",
-    "Development and AWS Services.md",
+    "AWS Services and Features.md",
+    "Troubleshooting and Optimization.md",
     "AWS Developer Associate Certification.md",
     "Deployment.md",
-    "Ideopotency.md",
-    "Troubleshooting and Optimization.md",
+    "JSON Policy Document Structure.md",
     "Security.md",
+    "Development and AWS Services.md",
+    "AWS Lambda.md",
+    "AWS Identity and Access Management.md",
+    "Session Policies.md",
+    "Access Control Lists.md",
+    "AWS Organizations RCPs.md",
+    "AWS Organizations SCPs.md",
+    "Permissions Boundaries.md",
+    "Resource-Based Policies.md",
+    "Identity-Based Policies.md",
+    "Ideopotency.md",
     "Bearer Tokens.md",
     "Customer Managed.md",
     "Monolithic Choreography.md"

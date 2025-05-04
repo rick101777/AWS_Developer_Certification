@@ -15,7 +15,7 @@
 - Application authorization that uses ACLs
 - The [[Principle of Least Privilege]]
 - Differences between [[AWS Managed Policies]] and [[Customer-Managed Policies]]
-- [[Identity and Access Management]]
+- [[AWS Identity and Access Management (IAM)]]
 
 **Skills In:**
 - Using an identity provider to implement federated access
@@ -33,7 +33,7 @@
 	- AWS Private Certificate Authority
 - [[Key Protection]] (Key Rotation)
 - Differences between [[Client-Side Encryption]] and [[Server-Side Encryption]]
-- Differences between [[AWS Managed]] and [[Customer Managed]] [[AWS Key Management Service]] (AWS KMS) keys
+- Differences between [[AWS Managed]] and [[Customer Managed]] [[AWS Key Management Service (AWS KMS)]] keys
 
 **Skills In:**
 - Using encryption keys to encrypt or decrypt data
@@ -49,8 +49,8 @@
 	- [[Protected Health Information]] (PHI)
 - [[Environment Variables]]
 - [[Secrets Management]]
-	- [[Secrets Manager]]
-	- [[Systems Manager Parameter Store]]
+	- [[AWS Secrets Manager]]
+	- [[AWS Systems Manager]] parameter store
 - [[Secure Credential Handling]]
 
 **Skills In:**

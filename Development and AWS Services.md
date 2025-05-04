@@ -31,10 +31,10 @@
 - [[Stateless Applications]]
 - [[Unit Testing]]
 - [[Event Driven Architecture]]
-- The access of private resources in VPCs from [[Lambda]] code
+- The access of private resources in VPCs from [[AWS Lambda]] code
 
 **Skills in:**
-- Configuring [[Lambda]] functions by defining environment variables and parameters
+- Configuring [[AWS Lambda]] functions by defining environment variables and parameters
 	- Memory
 	- Concurrency
 	- Timeout
