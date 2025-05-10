@@ -49,3 +49,5 @@ Standard Workflows and Express Workflows support the same integrations but not t
 	- Certain services support Run a Job or Wait for Callback
 - **Express Workflows**
 	- Only support Request Response
+
+![[Pasted image 20250510110451.png]]

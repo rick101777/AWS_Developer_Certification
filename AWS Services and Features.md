@@ -20,8 +20,8 @@
 #### Containers
 - [[AWS Copilot]]
 - [[Amazon Elastic Container Register (ECR)]]
-- [[Amazon Elastic Container Service (ECS]]
-- [[Amazon Elastic Kubernetes Service (EKS]]
+- [[Amazon Elastic Container Service (ECS)]]
+- [[Amazon Elastic Kubernetes Service (EKS)]]
 
 #### Database
 - [[Amazon Aurora]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Step Function.md",
+                "file": "AWS CodeArtifact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Step Function"
+              "title": "AWS CodeArtifact"
             }
           }
         ]
@@ -171,9 +171,15 @@
   },
   "active": "c788a756aaee0b4d",
   "lastOpenFiles": [
-    "Pasted image 20250504205739.png",
     "AWS Services and Features.md",
+    "AWS CodeArtifact.md",
+    "AWS CloudShell.md",
+    "AWS Amplify.md",
+    "AWS Copilot.md",
+    "AWS Serverless Application Model (SAM).md",
     "AWS Step Function.md",
+    "Pasted image 20250510110451.png",
+    "Pasted image 20250504205739.png",
     "Amazon EventBridge.md",
     "AWS CloudFormation.md",
     "AWS AppSync.md",
@@ -193,9 +199,6 @@
     "Permissions Boundaries.md",
     "Resource-Based Policies.md",
     "Identity-Based Policies.md",
-    "Ideopotency.md",
-    "Bearer Tokens.md",
-    "Customer Managed.md",
-    "Monolithic Choreography.md"
+    "Ideopotency.md"
   ]
 }
